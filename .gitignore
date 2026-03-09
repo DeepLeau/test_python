@@ -1,0 +1,4 @@
+node_modules/
+screenshots/
+agent.js
+package-lock.json
